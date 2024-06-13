@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="image_title_1">One Piece</string>
+    <string name="image_artist_1">Eiichiro Oda</string>
+    <string name="image_year_1">(1997)</string>
+    <string name="image_title_2">Jujutsu Kaisen</string>
+    <string name="image_artist_2">Gege Akutami</string>
+    <string name="image_year_2">(2018)</string>
+    <string name="image_title_3">Kaiju No. 8</string>
+    <string name="image_artist_3">Naoya Matsumoto</string>
+    <string name="image_year_3">(2020)</string>
+</resources>
