@@ -150,12 +150,10 @@ fun ArtSpaceApp(
                 verticalAlignment = Alignment.CenterVertically
             ) {
                 NavigationButton(
-                    Modifier,
                     onClick = { gallerySlide -= 1 },
                     text = "Previous"
                 )
                 NavigationButton(
-                    Modifier,
                     onClick = { gallerySlide += 1 },
                     text = "Next"
                 )
